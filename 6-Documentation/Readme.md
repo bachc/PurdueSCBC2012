@@ -295,6 +295,7 @@ LaTeX.
 Add docstrings to the functions in the `close_line.py` module. Then,
 using sphinx, generate a website which auto-documents this module.
 
+Windows-User note: Start command promt at administrator when doing the installation of searchd as a service, see http://sphinxsearch.com/forum/view.html?id=2608 
 
 # Feedback
 
